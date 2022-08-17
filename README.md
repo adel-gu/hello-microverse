@@ -11,7 +11,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Adel Guitoun**
 
 - GitHub: [@adel-gu](https://github.com/adel-gu)
 - Twitter: [@GuitounAdel](https://twitter.com/@GuitounAdel)
